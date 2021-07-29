@@ -13,12 +13,12 @@ In the first version I used 120 pictures for training. For a deep learning proje
 
 In the second version, I knew that I should use more images but I was still dealing with handling image reading with tensorflow so I was still using OpenCV. So that I could not increased the image amount too much. I trained the model with 300 images. Results was again promising. I worked on GPU in Colab. You can directly open the notebook I worked from the link below.
 
-[![Open In Colab](https://colab.research.google.com/drive/1VRcu9FD2ZVbFtanhBDP9QtUEUMgbDPmP#scrollTo=qlOdLXKzAHuL)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VRcu9FD2ZVbFtanhBDP9QtUEUMgbDPmP#scrollTo=qlOdLXKzAHuL)
 
 ### Version 3
 In version 3, I decided to resize the images. Resizing the images helped me a lot about RAM usage but I believe it decreased the success of the model. I worked on GPU in Colab. You can directly open the notebook I worked from the link below.
 
-[![Open In Colab](https://colab.research.google.com/drive/1aUWLxLwY5vYeFKDXqeF7Rmoqx_OoG_PZ)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1aUWLxLwY5vYeFKDXqeF7Rmoqx_OoG_PZ)
 
 ## Citation
 
